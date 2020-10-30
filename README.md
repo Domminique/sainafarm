@@ -1,7 +1,7 @@
 
 # Saina Farm  API Documentation by Dominic Imbuga updated October 2020.
 Our focus is on creating a comprehensive, structured and helpful API documentation. Structure should be regular and repeated across
-endpoints and between projects.
+endpoints and between projects. [imbugad@gmail.com](https://sainafarm.herokuapp.com/), spread the word.
 
 
 ## Our Mission
