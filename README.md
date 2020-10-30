@@ -1,19 +1,12 @@
 
-# Saina Farm  API Documentation by Dominic Imbuga updated Jan 2019.
+# Saina Farm  API Documentation by Dominic Imbuga updated October 2020.
+Our focus is on creating a comprehensive, structured and helpful API documentation. Structure should be regular and repeated across
+endpoints and between projects.
+
 
 ## Our Mission
 
 Saina Farm platform exposes critical operational data insights to more than 1 in 3 Africa row crop farmers.
-
-## In Markdown
-
-Inspired by [@iros](https://github.com/iros)'s [documentation
-gist](https://gist.github.com/iros/3426278).
-
-Our focus is on creating a comprehensive, structured and
-helpful API documentation. Structure should be regular and repeated across
-endpoints and between projects.
-
 
 Our mission is to help bring farmers the future of farming. We challenge what is possible and invent new ways of applying cutting-edge technology to the world's oldest and most foundational industry.
 
