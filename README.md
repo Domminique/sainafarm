@@ -1,5 +1,5 @@
 
-# RINGA REST API Documentation by Dominic Imbuga updated Jan 2019.
+# Saina Farm  API Documentation by Dominic Imbuga updated Jan 2019.
 
 ## In Markdown
 
